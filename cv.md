@@ -5,6 +5,7 @@
 ## Contact Information
 * **Location** : Kharkiv, Ukraine
 * **Email** : 19ustim93@gmail.com
+* **Discord** : serhii_ust
 * **GitHub** : [Serhii465](https://github.com/Serhii465/)
 
 ---
@@ -64,7 +65,7 @@ I am an aspiring developer with a great desire to learn and grow in the field of
  ```
 ---
 ## Languages
-**Ukrainian** (native) 
-**Russian**
-**English** (A1 - сurrently actively studying the language to improve my skills.)
+* **Ukrainian** (native) 
+* **Russian**
+* **English** (A1 - сurrently actively studying the language to improve my skills.)
 
