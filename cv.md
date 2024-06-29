@@ -5,7 +5,7 @@
 ## Contact Information
 * **Location** : Kharkiv, Ukraine
 * **Email** : 19ustim93@gmail.com
-* **GitHub** : [Serhii](https://github.com/Serhii465/)
+* **GitHub** : [Serhii465](https://github.com/Serhii465/)
 
 ---
 
